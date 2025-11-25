@@ -9,13 +9,8 @@ inference.py (will be used for prediction)
 requirements.txt (list of Python packages you need)
 Some example protein data and notebooks
 
-What is NOT ready yet:
 
-No working pre-trained model
-Inference is not fully working
-Documentation is minimal
-
-How to set it up (when it becomes ready):
+How to set it up:
 
 Clone the repo
 git clone https://github.com/LokheshNK/Helixnet--3D-Protein-Structure-Prediction.git
